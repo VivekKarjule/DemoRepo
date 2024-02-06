@@ -1,0 +1,2 @@
+student = 'Vivek'
+print(student)
